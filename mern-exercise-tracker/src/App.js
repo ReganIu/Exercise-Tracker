@@ -12,6 +12,7 @@ function App() {
       <Route path="/create" component={CreateExercise} />
       <Route path="/user" component={CreateUser} />
     </Router>
+    
   );
 }
 
